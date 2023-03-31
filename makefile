@@ -23,7 +23,7 @@ RUN_TYPE := localhost
 # NETWORK {SecureML, Sarda, MiniONN, LeNet, AlexNet, and VGG16}
 NETWORK := AlexNet
 # Dataset {MNIST, CIFAR10, and ImageNet}
-DATASET	:= CIFAR10
+DATASET	:= MNIST
 # Security {Semi-honest or Malicious} 
 SECURITY:= Semi-honest # Malicious
 #########################################################################################

@@ -14,7 +14,7 @@ IP5=54.215.77.155			#Cali
 
 #########################################################################################
 NETWORK=AlexNet 			# NETWORK {SecureML, Sarda, MiniONN, LeNet, AlexNet, and VGG16}
-DATASET=CIFAR10 			# DATASET {MNIST, CIFAR10, and ImageNet}
+DATASET=MNIST 			# DATASET {MNIST, CIFAR10, and ImageNet}
 SECURITY=Semi-honest 		# SECURITY {Semi-honest or Malicious} 
 RUN_TYPE=WAN 				# RUN_TYPE {LAN or WAN or localhost}
 PRINT_TO_FILE=false			# PRINT_TO_FILE {true or false}
